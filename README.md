@@ -12,6 +12,8 @@ I am a Frontend React Developer with hands-on experience building and scaling cu
 
 Below are my latest projects demonstrating my expertise in architecture, performance, and modern tooling.
 
+---------------------------------------------------------------------------------------------------------
+
 ### Panda Studio Team (Commercial Platform)
 
 **Live App:** https://pandastudioteam.com
@@ -25,6 +27,8 @@ A commercial web platform for a fitness studio, engineered with Next.js 15 to se
 -   Engineered a programmatic SEO system with complex JSON-LD injection for search dominance.
 
 -   Established a robust testing strategy using Vitest for logic and Playwright for E2E flows.
+
+---------------------------------------------------------------------------------------------------------
 
 ### React Ready Template
 
@@ -40,6 +44,8 @@ A production-minded React boilerplate optimized for scalability, featuring pre-w
 
 -   Integrated a full testing suite with Vitest and Testing Library ready for CI/CD pipelines.
 
+---------------------------------------------------------------------------------------------------------
+
 ### React Frontend Developer Portfolio
 
 **Live Demo:** https://alexlikenew.pl
@@ -53,6 +59,8 @@ A high-performance personal portfolio built with the latest React 19 and Tailwin
 -   Integrated Supabase for dynamic content management and blog functionality.
 
 -   Achieved perfect Core Web Vitals scores through advanced image optimization and code splitting.
+
+---------------------------------------------------------------------------------------------------------
 
 ### CloudOps Dashboard (Enterprise SaaS)
 
